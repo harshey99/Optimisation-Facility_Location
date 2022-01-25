@@ -8,4 +8,4 @@ a city or between two cities. There is no population outside the cities. Superma
 capacity. We want to locate the supermarkets so as to minimise the total travel time for all customers. The
 objective function is formulated in supermarket.ipynb with data in supermarket_cities_locations.csv
 and supermarket_cities_populations.csv. A plotting function is included. We will implement a Random
-Search approach to this problem, a Particle Swarm Optimisation approach, and a CMA approach.
+Search approach to this problem, a Particle Swarm Optimisation approach, and a CMA Approach.
